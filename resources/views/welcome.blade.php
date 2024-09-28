@@ -33,7 +33,7 @@
                                     >
                                         Dashboard
                                     </a>
-                                @else                                        href="{{ url('/dashboard') }}"
+                                @else   
 
                                     <a
                                         href="{{ route('login') }}"
